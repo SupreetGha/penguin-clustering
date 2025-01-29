@@ -87,7 +87,8 @@ plt.colorbar(label="Cluster Label")
 plt.grid(True)
 plt.show()
 ```
-![elbow_pengiuns](https://github.com/user-attachments/assets/f6179f8a-1c98-4e25-ba57-39196347c23d)
+![penguin_clusters](https://github.com/user-attachments/assets/81ca3278-af4f-4784-a55b-6e0eb62c8257)
+
 
 ## Findings
 - 4 clusters were identified, corresponding to distinct physical traits.
